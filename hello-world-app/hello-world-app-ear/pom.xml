@@ -42,7 +42,6 @@
                 <groupId>com.formation.integcontinue</groupId>
                 <artifactId>hello-world-app-war</artifactId>
                 <uri>hello-world-app-war.war</uri>
-                <contextRoot>/application</contextRoot>
               </webModule>
             </modules>
           </configuration>
